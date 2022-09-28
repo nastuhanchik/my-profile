@@ -1,0 +1,78 @@
+
+
+img {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+body {
+	text-align: center;
+	margin-top: 0;
+	background-color: #AEBDCA;
+}
+
+.animate__animated.animate__pulse {
+  --animate-duration: 2s;
+}
+
+div{
+margin: 0 50px;
+}
+
+.container {
+ margin: 30px 30%;
+ box-shadow: 5px 5px 6px lightgrey;
+ background-color: #F5EFE6;
+ padding: 15px;
+ border-radius: 7%;
+}
+
+h1{
+	margin: 30px 80px;
+	border-radius: 7px;
+	padding: 20px;
+	background-color: #E8DFCA;
+	font-family: 'Playfair Display', serif;;
+}
+
+.text-design {
+	margin: 0 40%;
+}
+
+ul {
+	text-align: left;
+}
+
+.list-inline i {
+	display: inline;
+	letter-spacing: 5;
+	color: brown;
+	text-decoration: none;
+}
+ 
+.contforsn {
+	background-attachment: #AEBDCA;
+}
+.contacts {
+	text-align: center;
+}
+
+.contacts i {
+	color: darkblue;
+}
+.last-container{
+	margin: auto;
+}
+hr {
+    width: 40%;
+   margin-top: 2%;
+    color: brown;
+}
+
+.bg-image {
+  background-image: url("images/marseille.webp");
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
